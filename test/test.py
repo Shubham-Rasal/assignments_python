@@ -1,14 +1,36 @@
-import math
-dict={}
+# exp = "(p->q)->(~r^q)"
 
-#rsa cypher
-def rsa_cypher(plaintext,e,n):
-    ciphertext=pow(plaintext,e)
-    ciphertext=math.fmod(ciphertext,n)
-    return ciphertext
+# stack = []
+
+# for i in exp:
+#   ch = i
+#   if ch != ')':
+#     stack.append(ch)
+#     continue
+#   stack.append(ch)
+#   break
+
+    
+# evaluates logicall expression
+def evaluate(stack):
+    ans = []    
+    for i in range(len(stack)):
+# put the i in ans if it is a lowercase character
+        
+        if stack[i] == '-' and stack[i+1] == '>':
+            ans.append('#')
+            continue
+        else:
+            
+            ans.append(stack[i])
+        
+    
+    
+    return '~' + ''.join(ans)
     
 
-for i in range(1,11):
-    dict[i]=rsa_cypher(i,3,11)
+print(evaluate("(p->q)->(~r^q)"))
 
-print(dict)
+
+         
+        
