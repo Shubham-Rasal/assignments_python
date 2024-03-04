@@ -1,0 +1,1024 @@
+{
+  "kind": "youtube#commentThreadListResponse",
+  "etag": "sdZbWCcWfGXp_wGzR-XWkSL48fg",
+  "nextPageToken": "Z2V0X25ld2VzdF9maXJzdC0tQ2dnSWdBUVZGN2ZST0JJRkNJY2dHQUFTQlFpSUlCZ0FFZ1VJblNBWUFSSUZDSWtnR0FBU0JRaW9JQmdBR0FBaURnb01DUHl5aHE4R0VQamp1TWND",
+  "pageInfo": { "totalResults": 20, "resultsPerPage": 20 },
+  "items": [
+    {
+      "kind": "youtube#commentThread",
+      "etag": "VkSF9UCti64JErh9MHwzbd0yA3M",
+      "id": "Ugx1Fsg9w5pDDDf4g4R4AaABAg",
+      "snippet": {
+        "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+        "videoId": "iRYZjOuUnlU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "lVJhk6tIj66BD89SD2cTc7tRVAQ",
+          "id": "Ugx1Fsg9w5pDDDf4g4R4AaABAg",
+          "snippet": {
+            "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+            "videoId": "iRYZjOuUnlU",
+            "textDisplay": "If you found this video helpful as an introduction, the next one we recommend is this one, about the 1948 events at the center of the conflict: <a href=\"https://www.youtube.com/watch?v=rGVgjS98OsU\">https://youtu.be/rGVgjS98OsU</a> <br><br>To learn more about the October 7 attacks, read our explainer: <a href=\"https://bit.ly/45oC4Ls\">https://bit.ly/45oC4Ls</a> <br><br>You can read all of Vox\u2019s continuing coverage of the October 7 attacks and their aftermath here: <a href=\"https://bit.ly/45seXzs\">https://bit.ly/45seXzs</a> <br><br>And if you\u2019re looking for more context on the conflict, there\u2019s much more to dive into here: <a href=\"https://bit.ly/3LVOaoe\">https://bit.ly/3LVOaoe</a>",
+            "textOriginal": "If you found this video helpful as an introduction, the next one we recommend is this one, about the 1948 events at the center of the conflict: https://youtu.be/rGVgjS98OsU \n\nTo learn more about the October 7 attacks, read our explainer: https://bit.ly/45oC4Ls \n\nYou can read all of Vox\u2019s continuing coverage of the October 7 attacks and their aftermath here: https://bit.ly/45seXzs \n\nAnd if you\u2019re looking for more context on the conflict, there\u2019s much more to dive into here: https://bit.ly/3LVOaoe",
+            "authorDisplayName": "@Vox",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kDDVVl8f3ZdJueQXkpzWJW7qGsZF7rDeoR98hBVw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@Vox",
+            "authorChannelId": { "value": "UCLXo7UDZvByw2ixzpQCufnA" },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 3049,
+            "publishedAt": "2023-10-10T15:58:10Z",
+            "updatedAt": "2023-10-10T15:58:10Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 119,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "SGf_57MRIXtvli7XWB-BDDR31Vg",
+            "id": "Ugx1Fsg9w5pDDDf4g4R4AaABAg.9vgr10oIoX59vgyw9jg9ye",
+            "snippet": {
+              "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+              "videoId": "iRYZjOuUnlU",
+              "textDisplay": "Then complains when the colonized people come there",
+              "textOriginal": "Then complains when the colonized people come there",
+              "parentId": "Ugx1Fsg9w5pDDDf4g4R4AaABAg",
+              "authorDisplayName": "@deelee4639",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mdTd5TvZVHuBasIzGxzGj_OmDe8BBH1N072MsVdT6tXY3nOBVcq8lNTyWcBtHz=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/@deelee4639",
+              "authorChannelId": { "value": "UC7_G8utfu_VAhk1k4cgU18Q" },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 6,
+              "publishedAt": "2023-10-10T17:07:18Z",
+              "updatedAt": "2023-10-10T17:07:18Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "Bf9SraiTSpXX1wvH5Lu-krjb_d4",
+            "id": "Ugx1Fsg9w5pDDDf4g4R4AaABAg.9vgr10oIoX59vh3pVztEo9",
+            "snippet": {
+              "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+              "videoId": "iRYZjOuUnlU",
+              "textDisplay": "thanks for the free history lesson brotha. nothing beats free and someone else doing your homework.",
+              "textOriginal": "thanks for the free history lesson brotha. nothing beats free and someone else doing your homework.",
+              "parentId": "Ugx1Fsg9w5pDDDf4g4R4AaABAg",
+              "authorDisplayName": "@ultimatedouchebag6760",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k9sE_8RgKkSp8a9wQm9CKPyObq4bSwilR1ZA=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/@ultimatedouchebag6760",
+              "authorChannelId": { "value": "UCpyCQaSRFz-f8_6PomHqAjA" },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 27,
+              "publishedAt": "2023-10-10T17:58:49Z",
+              "updatedAt": "2023-10-10T17:58:49Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "csVvZcWeC7kBiCkMi4kF33GekcY",
+            "id": "Ugx1Fsg9w5pDDDf4g4R4AaABAg.9vgr10oIoX59vh9C66JYUs",
+            "snippet": {
+              "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+              "videoId": "iRYZjOuUnlU",
+              "textDisplay": "Nice",
+              "textOriginal": "Nice",
+              "parentId": "Ugx1Fsg9w5pDDDf4g4R4AaABAg",
+              "authorDisplayName": "@astral8044",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_l2gOqNNMHbggMqLNFDr3ztSFoeAuFjghwScg=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/@astral8044",
+              "authorChannelId": { "value": "UCqiu2_mVLzyFXpUwKkB2IDw" },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 3,
+              "publishedAt": "2023-10-10T18:45:44Z",
+              "updatedAt": "2023-10-10T18:45:44Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "b45EZde9ktIDfDljNTqY33IdwM0",
+            "id": "Ugx1Fsg9w5pDDDf4g4R4AaABAg.9vgr10oIoX59vhBxwvuxL3",
+            "snippet": {
+              "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+              "videoId": "iRYZjOuUnlU",
+              "textDisplay": "P",
+              "textOriginal": "P",
+              "parentId": "Ugx1Fsg9w5pDDDf4g4R4AaABAg",
+              "authorDisplayName": "@brianthisse",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mck5U7Rbscv-Ty0tKKbtlMRdcIQqdW89kcftGF5nXCypM_42YPtUfKeru0RTzl=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/@brianthisse",
+              "authorChannelId": { "value": "UCxJPIqOpFxI0rgOuPy2epsg" },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2023-10-10T19:09:53Z",
+              "updatedAt": "2023-10-10T19:09:53Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "WtY9wFrDOOdmV7sjuF7Bnj_Ypj0",
+            "id": "Ugx1Fsg9w5pDDDf4g4R4AaABAg.9vgr10oIoX59vhF3QSQzuk",
+            "snippet": {
+              "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+              "videoId": "iRYZjOuUnlU",
+              "textDisplay": "Gotta love when some major event happens causing a video to make an extra 20 to 40k randomly in the future. Was this planned vox?",
+              "textOriginal": "Gotta love when some major event happens causing a video to make an extra 20 to 40k randomly in the future. Was this planned vox?",
+              "parentId": "Ugx1Fsg9w5pDDDf4g4R4AaABAg",
+              "authorDisplayName": "@Pr0toPoTaT0",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/QjqzrFC2ku06qtiSBwVDrdBJN--CE3Iqm_LcAKgxkH5usxDxoZ61VmOxsk7VQvd8a1MaxrzYbw=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/@Pr0toPoTaT0",
+              "authorChannelId": { "value": "UCgkRqXiKDIh-u8NhXyCetEA" },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 19,
+              "publishedAt": "2023-10-10T19:36:59Z",
+              "updatedAt": "2023-10-10T19:36:59Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "vqt-GVoasjdsSVGTpE1jBhcp5xg",
+      "id": "Ugy_vopRfkCQE6-LkAB4AaABAg",
+      "snippet": {
+        "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+        "videoId": "iRYZjOuUnlU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "0QRNB5CHD-ISTzNv7HuPJEyeiTQ",
+          "id": "Ugy_vopRfkCQE6-LkAB4AaABAg",
+          "snippet": {
+            "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+            "videoId": "iRYZjOuUnlU",
+            "textDisplay": "Pretty sure Vox is like CNN.",
+            "textOriginal": "Pretty sure Vox is like CNN.",
+            "authorDisplayName": "@Godsmadeup",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/JQMkB-9AbXXYfQxCKGBFAVxMnn48sBiULBE6or2mt9-ullAozC-MU8Ysksxt0u2U3aPCY7TMsLc=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@Godsmadeup",
+            "authorChannelId": { "value": "UC8hS7brC_d358HlcKqL_hkg" },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2024-03-03T19:43:19Z",
+            "updatedAt": "2024-03-03T19:43:19Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "nh2T2OnNLRA1IrHxT44VllUua_A",
+      "id": "UgxGQRBqYgu4ns63DOp4AaABAg",
+      "snippet": {
+        "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+        "videoId": "iRYZjOuUnlU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "I0wnsyPYwrnCmfaPlTfj0LUwMJY",
+          "id": "UgxGQRBqYgu4ns63DOp4AaABAg",
+          "snippet": {
+            "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+            "videoId": "iRYZjOuUnlU",
+            "textDisplay": "Don\u2019t start a war you can\u2019t win",
+            "textOriginal": "Don\u2019t start a war you can\u2019t win",
+            "authorDisplayName": "@maryslovesyyou",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/Bf-8xwl3gqfHdFmMw6ZTKuqchU2KtfveW3_Cz6PFZKXw8WZ1wC2vj70ddzL5RK25joTs_de2WQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@maryslovesyyou",
+            "authorChannelId": { "value": "UClUjHSAJyUNTQH0PLFI3qNg" },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2024-03-03T18:25:11Z",
+            "updatedAt": "2024-03-03T18:25:11Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "HcxcVQuTUbZqz5zirWri8R-SrnQ",
+      "id": "Ugxd3lsogjDeCe1jYXZ4AaABAg",
+      "snippet": {
+        "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+        "videoId": "iRYZjOuUnlU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "teFk2F80-KqtnEerKwPE5ySPDnY",
+          "id": "Ugxd3lsogjDeCe1jYXZ4AaABAg",
+          "snippet": {
+            "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+            "videoId": "iRYZjOuUnlU",
+            "textDisplay": "&quot;These are called settlers&quot; &quot;Some moved in because the housing was cheap&quot; Please let us be honest. They didn&#39;t &quot;settle&quot; or &quot;make their own houses&quot;, they occupied them.",
+            "textOriginal": "\"These are called settlers\" \"Some moved in because the housing was cheap\" Please let us be honest. They didn't \"settle\" or \"make their own houses\", they occupied them.",
+            "authorDisplayName": "@thenotch2739",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nIWYu_Jk53EBiG5BHXREdrNJl98yEKnQVykVRfTQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@thenotch2739",
+            "authorChannelId": { "value": "UCO6GbwT4SogxWu897z8dw3g" },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 3,
+            "publishedAt": "2024-03-03T09:38:01Z",
+            "updatedAt": "2024-03-03T09:38:01Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "xdWwxbEv3VAxA8Xfbo_jhQnU21w",
+            "id": "Ugxd3lsogjDeCe1jYXZ4AaABAg.A0WXmbmnnwZA0WwGf9aPEQ",
+            "snippet": {
+              "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+              "videoId": "iRYZjOuUnlU",
+              "textDisplay": "You shouldn&#39;t spread such falsehoods.  The houses in Jerusalem that the Arabs accuse the Jews of &quot;occupying&quot; or &quot;stealing&quot;, legally belonged to the Jews, who were forced to flee when East Jerusalem was captured by Jordan, at which point those houses were illegally occupied by Arabs, so when Israel re-acquired control over East Jerusalem, the legal owners were given possession of their own homes back, which involved evicting the illegal squatters.<br><br>Similarly, in the West Bank, the Israelis are building their own communities, not evicting Arabs and moving into the Arabs&#39; houses.",
+              "textOriginal": "You shouldn't spread such falsehoods.  The houses in Jerusalem that the Arabs accuse the Jews of \"occupying\" or \"stealing\", legally belonged to the Jews, who were forced to flee when East Jerusalem was captured by Jordan, at which point those houses were illegally occupied by Arabs, so when Israel re-acquired control over East Jerusalem, the legal owners were given possession of their own homes back, which involved evicting the illegal squatters.\n\nSimilarly, in the West Bank, the Israelis are building their own communities, not evicting Arabs and moving into the Arabs' houses.",
+              "parentId": "Ugxd3lsogjDeCe1jYXZ4AaABAg",
+              "authorDisplayName": "@lennardchurch8483",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_knsk9UdVY-hchMft5tpKkKALC_BnHWdu8CQv7l=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/@lennardchurch8483",
+              "authorChannelId": { "value": "UCWIlY9JddAUCv4n9TJTF_MQ" },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 2,
+              "publishedAt": "2024-03-03T13:20:43Z",
+              "updatedAt": "2024-03-03T13:21:29Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "-NX01f1UPLcnSKyg_CTbXnexok8",
+      "id": "Ugyf9K5UXJdviH_AV7h4AaABAg",
+      "snippet": {
+        "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+        "videoId": "iRYZjOuUnlU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "zRGRHEaAzycTlEVE17GRHr6r-sw",
+          "id": "Ugyf9K5UXJdviH_AV7h4AaABAg",
+          "snippet": {
+            "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+            "videoId": "iRYZjOuUnlU",
+            "textDisplay": "Thanks really needed this for understanding of what\u2019s going on now",
+            "textOriginal": "Thanks really needed this for understanding of what\u2019s going on now",
+            "authorDisplayName": "@SolRagna",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lKSPfQs_4h84MhDmHlrNnusH17knV8H7rTZ-QE2g=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@SolRagna",
+            "authorChannelId": { "value": "UC5FZBAJ5HUryISYDfkuMbMQ" },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2024-03-03T06:32:49Z",
+            "updatedAt": "2024-03-03T06:32:49Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "5UwGyAbDTrOWg_s5He2lhjz1Gbw",
+      "id": "UgzLjUNYgv0BMbV2oGl4AaABAg",
+      "snippet": {
+        "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+        "videoId": "iRYZjOuUnlU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "b9i5Ohdsja0UktJPaJYY6wPeLAk",
+          "id": "UgzLjUNYgv0BMbV2oGl4AaABAg",
+          "snippet": {
+            "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+            "videoId": "iRYZjOuUnlU",
+            "textDisplay": "Please everyone don&#39;t forget the Sudanese \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f",
+            "textOriginal": "Please everyone don't forget the Sudanese \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f",
+            "authorDisplayName": "@justsomekidwithoutamustach7769",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/MCXxScOnkLF_J_Do9ac16jlcEBMmHothWbBUHc-yJRjbEUhs2KdT6Bml7_uKHU0TCOIrJEAxXvI=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@justsomekidwithoutamustach7769",
+            "authorChannelId": { "value": "UCiR1qj2v4Hc6vaNZLgkRQow" },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2024-03-02T22:55:56Z",
+            "updatedAt": "2024-03-02T22:55:56Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "uIgtAj-Psi8nMAdHWNNOhBYMpBA",
+      "id": "Ugz3ALo5m7nklgQJNy14AaABAg",
+      "snippet": {
+        "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+        "videoId": "iRYZjOuUnlU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "JZHX9UC5qdikevQjJaT4UnydT-o",
+          "id": "Ugz3ALo5m7nklgQJNy14AaABAg",
+          "snippet": {
+            "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+            "videoId": "iRYZjOuUnlU",
+            "textDisplay": "This is the jewish state the land of israel the bible says it the whole world knows it",
+            "textOriginal": "This is the jewish state the land of israel the bible says it the whole world knows it",
+            "authorDisplayName": "@myheatgoesboomboomboom1655",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/NcAbo4256Hzlb_U4YIxEY22G_5jQCVjZgEXZ7vXaaJp9NjC7rO6Nw_Yp3QrF04et8oUEYj2fhw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@myheatgoesboomboomboom1655",
+            "authorChannelId": { "value": "UCGK1RqRsFQWsy62G4Hg8nGQ" },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2024-03-02T20:16:53Z",
+            "updatedAt": "2024-03-02T20:16:53Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "dL3HbA-gnVNWCk4LbPxynNrhTHM",
+      "id": "Ugw2Yb7JWwzEumz_C1t4AaABAg",
+      "snippet": {
+        "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+        "videoId": "iRYZjOuUnlU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "WA5NloYCE7vR0DldaenjaExZjbw",
+          "id": "Ugw2Yb7JWwzEumz_C1t4AaABAg",
+          "snippet": {
+            "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+            "videoId": "iRYZjOuUnlU",
+            "textDisplay": "So the Palestinians never really had a claimed land. And yet they revolt with terrorism and genocide on Jews fleeing from a genocide. Gotcha. <br><br>I wish the best for the Israelis.",
+            "textOriginal": "So the Palestinians never really had a claimed land. And yet they revolt with terrorism and genocide on Jews fleeing from a genocide. Gotcha. \n\nI wish the best for the Israelis.",
+            "authorDisplayName": "@hungryhyena783",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/BQA2jCUquMW7q4Zwwr9QkDORqGd1R9vQCS1nEad3AA434cj3Q8Iw9PHXaG5VzgXsbZmG-mKJZ08=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@hungryhyena783",
+            "authorChannelId": { "value": "UChcMqTt59DeQxSh2ROvQCHQ" },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2024-03-02T19:57:06Z",
+            "updatedAt": "2024-03-02T19:57:06Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "a2CnZqEtUKMSco2IMK0ghihaf7g",
+      "id": "Ugx4aoaCVg1ybv20K0R4AaABAg",
+      "snippet": {
+        "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+        "videoId": "iRYZjOuUnlU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "HLo6RDEmXj7hP9poHBkH82S2RU4",
+          "id": "Ugx4aoaCVg1ybv20K0R4AaABAg",
+          "snippet": {
+            "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+            "videoId": "iRYZjOuUnlU",
+            "textDisplay": "After a week of intensive research on the history of this confict I can only draw one conclusion. Both parties are equally evil amd a danger to peaceful society",
+            "textOriginal": "After a week of intensive research on the history of this confict I can only draw one conclusion. Both parties are equally evil amd a danger to peaceful society",
+            "authorDisplayName": "@Flowshow88",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lXJS6iAuVqyDacWYe7GA4zEOtrK0edhhNAEg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@Flowshow88",
+            "authorChannelId": { "value": "UC9p8mhz8siX7fLG4IFLqgCw" },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2024-03-02T17:32:39Z",
+            "updatedAt": "2024-03-02T17:32:39Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 2,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "QR03ZU5NC2g93cjlF7sfohHfWU0",
+            "id": "Ugx4aoaCVg1ybv20K0R4AaABAg.A0UoIzeTzlFA0Uu-8MKbAU",
+            "snippet": {
+              "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+              "videoId": "iRYZjOuUnlU",
+              "textDisplay": "Well yes but who would you say started it? And were they justified?",
+              "textOriginal": "Well yes but who would you say started it? And were they justified?",
+              "parentId": "Ugx4aoaCVg1ybv20K0R4AaABAg",
+              "authorDisplayName": "@closetglobe.IRGUN.NW0",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/W8S7cAgGQumW3wXfkt8o8XIgHKGfa5qirFuIHsEZ_qMzU0PnkmHcfIJiQYJd9qTYMYf0LokLTQ=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/@closetglobe.IRGUN.NW0",
+              "authorChannelId": { "value": "UC_GevloPj1Yho9K20To-kOg" },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 2,
+              "publishedAt": "2024-03-02T18:22:22Z",
+              "updatedAt": "2024-03-02T18:22:22Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "qFPWuxspqLlabdEVnYTVOPcatVc",
+            "id": "Ugx4aoaCVg1ybv20K0R4AaABAg.A0UoIzeTzlFA0X-XJ3ZF7J",
+            "snippet": {
+              "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+              "videoId": "iRYZjOuUnlU",
+              "textDisplay": "Thank god someone who is smart.",
+              "textOriginal": "Thank god someone who is smart.",
+              "parentId": "Ugx4aoaCVg1ybv20K0R4AaABAg",
+              "authorDisplayName": "@LivingbyHatred",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/nhUF7cPssJ17ebNOhGIrErR-9VQ_gBbqX9afTtsEx5FeY9A_EYsWxGH-KVlLn8Vmu94aVOCnqA=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/@LivingbyHatred",
+              "authorChannelId": { "value": "UCCS6erzv6gzlVSowqzerFuA" },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2024-03-03T13:57:57Z",
+              "updatedAt": "2024-03-03T13:57:57Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "wDyyLcmDQUQSyH5CgECqk6PMGjo",
+      "id": "UgzuYm3fja3eRzMruPZ4AaABAg",
+      "snippet": {
+        "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+        "videoId": "iRYZjOuUnlU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "WYZ1LsRoBzXHo_CpU-bwaJVMzNs",
+          "id": "UgzuYm3fja3eRzMruPZ4AaABAg",
+          "snippet": {
+            "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+            "videoId": "iRYZjOuUnlU",
+            "textDisplay": "you dont have to be Palestinian to support palestine,you just have to have a heart.",
+            "textOriginal": "you dont have to be Palestinian to support palestine,you just have to have a heart.",
+            "authorDisplayName": "@sweetiful",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/4qCw9JU2Ck4T4B7culUBHIzX_4x4xtUAjMr08JirY-DGMrgM6GpStEbdmh06chii0E_N044bjg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@sweetiful",
+            "authorChannelId": { "value": "UCfM0HtBsbFsJqYChKNiissA" },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 3,
+            "publishedAt": "2024-03-02T14:08:51Z",
+            "updatedAt": "2024-03-02T14:08:51Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "WofWvJirdBsJwynv3pdyqVEjYAM",
+            "id": "UgzuYm3fja3eRzMruPZ4AaABAg.A0URzGHlN0LA0YSUokoJkq",
+            "snippet": {
+              "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+              "videoId": "iRYZjOuUnlU",
+              "textDisplay": "what does supporting a thing that does not exist to do with having a hart(=to actual people)?  bombs arent ment to throw in a desert, so someone that has a hart should not support the US. (who survived with a military)",
+              "textOriginal": "what does supporting a thing that does not exist to do with having a hart(=to actual people)?  bombs arent ment to throw in a desert, so someone that has a hart should not support the US. (who survived with a military)",
+              "parentId": "UgzuYm3fja3eRzMruPZ4AaABAg",
+              "authorDisplayName": "@user-ph3pq9hl7o",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lT7_DrqWT9kNyhMWUGwyfgBJaRta3QFOCun7B7l53CXOmbNZ13i6tGOMwOuvlo=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/@user-ph3pq9hl7o",
+              "authorChannelId": { "value": "UChUoQMpviCrL8miJvDlWtmw" },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2024-03-04T03:30:15Z",
+              "updatedAt": "2024-03-04T03:30:15Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "0IFZ0Igj8i_qXg-elJvfWpOJrwI",
+      "id": "UgzT7E6-lEh7bi8r0MV4AaABAg",
+      "snippet": {
+        "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+        "videoId": "iRYZjOuUnlU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "slkloz7JhqniryIDK_s8-pf1ciU",
+          "id": "UgzT7E6-lEh7bi8r0MV4AaABAg",
+          "snippet": {
+            "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+            "videoId": "iRYZjOuUnlU",
+            "textDisplay": "\ud83c\uddee\ud83c\uddf1\ud83c\uddee\ud83c\uddf1",
+            "textOriginal": "\ud83c\uddee\ud83c\uddf1\ud83c\uddee\ud83c\uddf1",
+            "authorDisplayName": "@First-Name--Last-Name",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nEc44dWNFUk85dU1dTNmAaKdpeDLJX1xNC6VdLm8PF06VWJnl1aLlN3Wk15jKP=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@First-Name--Last-Name",
+            "authorChannelId": { "value": "UCecskoeO3hq0BSDvDlMDZQw" },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2024-03-02T11:06:37Z",
+            "updatedAt": "2024-03-02T11:06:37Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "bVhC1a93OLJIPCyM9QX_wRhTKaY",
+      "id": "UgzBsrboheE9GSvDjCR4AaABAg",
+      "snippet": {
+        "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+        "videoId": "iRYZjOuUnlU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "vRVpS8JN2y8Sxg2xbSqHPMrextU",
+          "id": "UgzBsrboheE9GSvDjCR4AaABAg",
+          "snippet": {
+            "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+            "videoId": "iRYZjOuUnlU",
+            "textDisplay": "The land that the Jews have belongs to them due to the fact of that Abrahamic  covenant, put in place by God. No one will ever take them off that land. They are surrounded by enemies. On all sides, literally. But here they are on the land given to them by God. This hatred of the Jews \u201c Gods, chosen people\u201d has been this way for thousands of years. the Bible is a very reliable history book.",
+            "textOriginal": "The land that the Jews have belongs to them due to the fact of that Abrahamic  covenant, put in place by God. No one will ever take them off that land. They are surrounded by enemies. On all sides, literally. But here they are on the land given to them by God. This hatred of the Jews \u201c Gods, chosen people\u201d has been this way for thousands of years. the Bible is a very reliable history book.",
+            "authorDisplayName": "@pooperdave",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/lrxUrBj3svF--HwBwEsuCBl7k4C5qt6pUeMglWFtwxIozsy61iVsC1A241zibJTGvJseealyag=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@pooperdave",
+            "authorChannelId": { "value": "UCo6vKYoNUHPUj8HFMTYr9nA" },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2024-03-02T10:46:05Z",
+            "updatedAt": "2024-03-02T10:46:05Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Iocx3Z6L46pBU3vQcFAzoUWYoQI",
+      "id": "Ugyi1O3q6GpXGJbYVYB4AaABAg",
+      "snippet": {
+        "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+        "videoId": "iRYZjOuUnlU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "V2wRzSkvfJTR7erHacOd2j8zIV4",
+          "id": "Ugyi1O3q6GpXGJbYVYB4AaABAg",
+          "snippet": {
+            "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+            "videoId": "iRYZjOuUnlU",
+            "textDisplay": "Ben Shapiro can yap all he wants but history is clear. Not a single isreali has a legitimate claim to an inch of palestine (pre 1948 borders)",
+            "textOriginal": "Ben Shapiro can yap all he wants but history is clear. Not a single isreali has a legitimate claim to an inch of palestine (pre 1948 borders)",
+            "authorDisplayName": "@faisalhawi3309",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mEmdes5MX18W7Ztg-qK779uQdEKsfzgoUDqw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@faisalhawi3309",
+            "authorChannelId": { "value": "UC8k9rETOESfVnbobd1VS2aA" },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2024-03-02T09:43:09Z",
+            "updatedAt": "2024-03-02T09:43:09Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "dXuXBRE4JHEmjmhTQinWGvNKZ8A",
+            "id": "Ugyi1O3q6GpXGJbYVYB4AaABAg.A0Ty_EOdf5uA0XYdxofQKH",
+            "snippet": {
+              "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+              "videoId": "iRYZjOuUnlU",
+              "textDisplay": "What about the jews that&#39;s had been living there for centuries and didn&#39;t come from the diaspora?",
+              "textOriginal": "What about the jews that's had been living there for centuries and didn't come from the diaspora?",
+              "parentId": "Ugyi1O3q6GpXGJbYVYB4AaABAg",
+              "authorDisplayName": "@closetglobe.IRGUN.NW0",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/W8S7cAgGQumW3wXfkt8o8XIgHKGfa5qirFuIHsEZ_qMzU0PnkmHcfIJiQYJd9qTYMYf0LokLTQ=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/@closetglobe.IRGUN.NW0",
+              "authorChannelId": { "value": "UC_GevloPj1Yho9K20To-kOg" },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2024-03-03T19:04:49Z",
+              "updatedAt": "2024-03-03T19:04:49Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "8DQAA3Aqxju67LtBmYJvJZfbqMw",
+      "id": "Ugy7z60gCjnhADhSF894AaABAg",
+      "snippet": {
+        "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+        "videoId": "iRYZjOuUnlU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Ag1xbnzEnLOd6tTzgmBXLhtKdbg",
+          "id": "Ugy7z60gCjnhADhSF894AaABAg",
+          "snippet": {
+            "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+            "videoId": "iRYZjOuUnlU",
+            "textDisplay": "Arab vs Israel......you forgot to mention Arab in this video means Muslim.....this is a religion war",
+            "textOriginal": "Arab vs Israel......you forgot to mention Arab in this video means Muslim.....this is a religion war",
+            "authorDisplayName": "@dawkosvk",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mM7mW3pUJVIoM0sbB8FHnRrQMOd4MWaZ32H_XHxA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@dawkosvk",
+            "authorChannelId": { "value": "UCGEd1YenG1I0G6B6ufSh6_g" },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2024-03-02T05:06:37Z",
+            "updatedAt": "2024-03-02T05:06:37Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "fZXGk72Fu-jQeqnEJWt5o8_Db40",
+      "id": "Ugz1TiEMuTMpa6qkjt14AaABAg",
+      "snippet": {
+        "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+        "videoId": "iRYZjOuUnlU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "DoVmo5MQEl2EhKTsU9n5AvB2WXs",
+          "id": "Ugz1TiEMuTMpa6qkjt14AaABAg",
+          "snippet": {
+            "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+            "videoId": "iRYZjOuUnlU",
+            "textDisplay": "FREE PALESTINE!!!!",
+            "textOriginal": "FREE PALESTINE!!!!",
+            "authorDisplayName": "@lanahardy1708",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k44s1komRib8nZKt4MFDrgFROQ1kacYCG-38wA-Q=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@lanahardy1708",
+            "authorChannelId": { "value": "UCyIHeGQkeg-ThQ5XGUfC6ow" },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 6,
+            "publishedAt": "2024-03-01T19:37:35Z",
+            "updatedAt": "2024-03-01T19:37:35Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "c-e-rzU9Hti0MVQshk_Q2IOWZFM",
+      "id": "UgwYEck30mSXi1Z66e54AaABAg",
+      "snippet": {
+        "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+        "videoId": "iRYZjOuUnlU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "5_SC3xSrzKx11LY7g4sOlGX7x_0",
+          "id": "UgwYEck30mSXi1Z66e54AaABAg",
+          "snippet": {
+            "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+            "videoId": "iRYZjOuUnlU",
+            "textDisplay": "all in favor of blaming the english \ud83e\udd1a",
+            "textOriginal": "all in favor of blaming the english \ud83e\udd1a",
+            "authorDisplayName": "@goddammiteythan",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/tGYozRCiJpzxijb7QQcVvpm185ibeHouauCuJibDDLzPU_Tn11hUdcr30s4PjAimOxigTagM-XY=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@goddammiteythan",
+            "authorChannelId": { "value": "UC-ABf72VoFmvu-8exA4K6eg" },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 5,
+            "publishedAt": "2024-03-01T18:39:10Z",
+            "updatedAt": "2024-03-01T18:39:10Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "bqO_Hj6bkp7SMIK_JFxowLrCKwk",
+            "id": "UgwYEck30mSXi1Z66e54AaABAg.A0SM7GqcyfGA0TNToV3_5W",
+            "snippet": {
+              "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+              "videoId": "iRYZjOuUnlU",
+              "textDisplay": "The British didn&#39;t elect a genocidal death cult to rule Gaza when Israel freely gave it to the Arabs.",
+              "textOriginal": "The British didn't elect a genocidal death cult to rule Gaza when Israel freely gave it to the Arabs.",
+              "parentId": "UgwYEck30mSXi1Z66e54AaABAg",
+              "authorDisplayName": "@lennardchurch8483",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_knsk9UdVY-hchMft5tpKkKALC_BnHWdu8CQv7l=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/@lennardchurch8483",
+              "authorChannelId": { "value": "UCWIlY9JddAUCv4n9TJTF_MQ" },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2024-03-02T04:10:13Z",
+              "updatedAt": "2024-03-02T04:10:13Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Me3ZBYFdN5STMmytZ2JHcObR4R8",
+      "id": "UgwVwd22APhBykK2ndt4AaABAg",
+      "snippet": {
+        "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+        "videoId": "iRYZjOuUnlU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "zfuGr6_s5M__2Etgc0sF105e3DU",
+          "id": "UgwVwd22APhBykK2ndt4AaABAg",
+          "snippet": {
+            "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+            "videoId": "iRYZjOuUnlU",
+            "textDisplay": "Idk but shouldn\u2019t Britain be the one to blame? I will not say I know every aspect on how this war started but I am just asking.",
+            "textOriginal": "Idk but shouldn\u2019t Britain be the one to blame? I will not say I know every aspect on how this war started but I am just asking.",
+            "authorDisplayName": "@lambsauce3949",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/MC94xUttI1p5JAhPkSY-gvBZbrQ3iRYyQ6WLjpm4gLpeesRe92mYujIRuKSzguPaX47mFz0=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@lambsauce3949",
+            "authorChannelId": { "value": "UC75aqZ9Q4yiy58t4vjg2G5w" },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2024-03-01T13:16:55Z",
+            "updatedAt": "2024-03-01T13:16:55Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "GPI6VejhCZoeQprxnX7QVuFuGPw",
+            "id": "UgwVwd22APhBykK2ndt4AaABAg.A0RmF6iYmVjA0TO5fzaAVc",
+            "snippet": {
+              "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+              "videoId": "iRYZjOuUnlU",
+              "textDisplay": "Look at the entire history of the region... at least 3,000 years back.  The Jews are the only people to have ever had a sovereign country in that land, and between the ancient kingdom and the modern state of Israel, the land has been owned by almost everyone else, but was never at any time a state of &quot;Palestine&quot;.  It was always a territory owned by a foreign power in all the time between Israel&#39;s past kingdom and its current Democratic state.  The British gave the jews permission to return after WW2, and the Jews returned by first buying large amounts of land from landowners who wanted the money more than the land, and then the Jews moved onto that land they now owned.  Immediately afterward, Arabs who&#39;d never had any legal claim to the land owned by the Jews, launched illegal wars against the Jews, forcing the Israel to push back the aggressors to establish defensible borders, which is a legal acquisition of land under the international laws of war.<br><br>So Britain is not to blame.  The Islamist death-cults like Hamas, and those who support them are to blame.  The rest of the Arabs are victims of the aforementioned Islamist death-cults, who use them as human shields, and steal the international aid intended for these civilians.",
+              "textOriginal": "Look at the entire history of the region... at least 3,000 years back.  The Jews are the only people to have ever had a sovereign country in that land, and between the ancient kingdom and the modern state of Israel, the land has been owned by almost everyone else, but was never at any time a state of \"Palestine\".  It was always a territory owned by a foreign power in all the time between Israel's past kingdom and its current Democratic state.  The British gave the jews permission to return after WW2, and the Jews returned by first buying large amounts of land from landowners who wanted the money more than the land, and then the Jews moved onto that land they now owned.  Immediately afterward, Arabs who'd never had any legal claim to the land owned by the Jews, launched illegal wars against the Jews, forcing the Israel to push back the aggressors to establish defensible borders, which is a legal acquisition of land under the international laws of war.\n\nSo Britain is not to blame.  The Islamist death-cults like Hamas, and those who support them are to blame.  The rest of the Arabs are victims of the aforementioned Islamist death-cults, who use them as human shields, and steal the international aid intended for these civilians.",
+              "parentId": "UgwVwd22APhBykK2ndt4AaABAg",
+              "authorDisplayName": "@lennardchurch8483",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_knsk9UdVY-hchMft5tpKkKALC_BnHWdu8CQv7l=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/@lennardchurch8483",
+              "authorChannelId": { "value": "UCWIlY9JddAUCv4n9TJTF_MQ" },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2024-03-02T04:15:40Z",
+              "updatedAt": "2024-03-02T04:15:40Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "3jFvy-vnO_PazFxT6ktsuhH4FG0",
+      "id": "UgyYOI-JPxwEHhXvRu94AaABAg",
+      "snippet": {
+        "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+        "videoId": "iRYZjOuUnlU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "_rw0GcLwCzS5U2lAfFyMMec0Upc",
+          "id": "UgyYOI-JPxwEHhXvRu94AaABAg",
+          "snippet": {
+            "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+            "videoId": "iRYZjOuUnlU",
+            "textDisplay": "So when was Palestine actually Palestine? Following The Great War?",
+            "textOriginal": "So when was Palestine actually Palestine? Following The Great War?",
+            "authorDisplayName": "@YourHaloCreations",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nPkHKTZIXDKR1gOdPvafvDp0iOu-92k2wCi8XY=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@YourHaloCreations",
+            "authorChannelId": { "value": "UC07Vgkem6yvACZiK4--cCIw" },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2024-03-01T13:15:36Z",
+            "updatedAt": "2024-03-01T13:15:36Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "5q6DL8-QSf0P1Gq7Du3ejICWLQs",
+            "id": "UgyYOI-JPxwEHhXvRu94AaABAg.A0Rm5Ocr4EGA0TOGVHulHG",
+            "snippet": {
+              "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+              "videoId": "iRYZjOuUnlU",
+              "textDisplay": "There never was a state of &quot;Palestine&quot;.  The Romans applied the name to the territory as an insult to the Jews, and an attempt to erase Israel from history, but neither the Romans, nor any empire that captured the land thereafter ever attempted to create anything resembling a state of &quot;Palestine&quot;, even when the land was under Arab rule.",
+              "textOriginal": "There never was a state of \"Palestine\".  The Romans applied the name to the territory as an insult to the Jews, and an attempt to erase Israel from history, but neither the Romans, nor any empire that captured the land thereafter ever attempted to create anything resembling a state of \"Palestine\", even when the land was under Arab rule.",
+              "parentId": "UgyYOI-JPxwEHhXvRu94AaABAg",
+              "authorDisplayName": "@lennardchurch8483",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_knsk9UdVY-hchMft5tpKkKALC_BnHWdu8CQv7l=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/@lennardchurch8483",
+              "authorChannelId": { "value": "UCWIlY9JddAUCv4n9TJTF_MQ" },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 2,
+              "publishedAt": "2024-03-02T04:17:08Z",
+              "updatedAt": "2024-03-02T04:17:08Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "3cUcvElyQJtBj3y3wW6rzHGYHZ4",
+      "id": "UgzoSWiOFMkUSfR2Srl4AaABAg",
+      "snippet": {
+        "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+        "videoId": "iRYZjOuUnlU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "6_zQkybXGKDkBRPHG-7z360nh8w",
+          "id": "UgzoSWiOFMkUSfR2Srl4AaABAg",
+          "snippet": {
+            "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+            "videoId": "iRYZjOuUnlU",
+            "textDisplay": "Why did the Jews arbitrarily selected that specific location to build? Why not migrate to sandy Mexico and help get things on track? Why did they choose this Middle East spot they had no ties to?",
+            "textOriginal": "Why did the Jews arbitrarily selected that specific location to build? Why not migrate to sandy Mexico and help get things on track? Why did they choose this Middle East spot they had no ties to?",
+            "authorDisplayName": "@MessianicJewJitsu",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/EpqMwO35K_crLh2tnU_RKQ17gqnbE7g6uVQK8Du6Q3S2VRJiJ7brE9JkS8hN-H10ryQtq0qfxw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@MessianicJewJitsu",
+            "authorChannelId": { "value": "UCuLzm0eXSSsY-rMrHP3W8Rg" },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2024-03-01T11:56:18Z",
+            "updatedAt": "2024-03-01T11:56:18Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 2,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "22vgdZSfXz0KBd8qCxOawCy1h4o",
+            "id": "UgzoSWiOFMkUSfR2Srl4AaABAg.A0Rd0d0t2EEA0RzX3HMS6G",
+            "snippet": {
+              "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+              "videoId": "iRYZjOuUnlU",
+              "textDisplay": "Because thats where judea used to be<br><br>They were tired of not having their own country so and knew they&#39;d likely have to start a war and so chose a pretty convenient location",
+              "textOriginal": "Because thats where judea used to be\n\nThey were tired of not having their own country so and knew they'd likely have to start a war and so chose a pretty convenient location",
+              "parentId": "UgzoSWiOFMkUSfR2Srl4AaABAg",
+              "authorDisplayName": "@closetglobe.IRGUN.NW0",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/W8S7cAgGQumW3wXfkt8o8XIgHKGfa5qirFuIHsEZ_qMzU0PnkmHcfIJiQYJd9qTYMYf0LokLTQ=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/@closetglobe.IRGUN.NW0",
+              "authorChannelId": { "value": "UC_GevloPj1Yho9K20To-kOg" },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 2,
+              "publishedAt": "2024-03-01T15:12:58Z",
+              "updatedAt": "2024-03-01T15:12:58Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "0RSMBRXS0Q1WzX7OORZa95icq5g",
+            "id": "UgzoSWiOFMkUSfR2Srl4AaABAg.A0Rd0d0t2EEA0TOda695h2",
+            "snippet": {
+              "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+              "videoId": "iRYZjOuUnlU",
+              "textDisplay": "It&#39;s not arbitrary.  The land of Israel is the only location on the whole of the Earth where the Jews ever had a country of their own, and it&#39;s unique in that in all of recorded history, that land has never had any other sovereign country there except for that of the Jews.  No empire who ever captured that land ever created a country there.  It is the Jews&#39; ancestral homeland.  They have significant historical and religious ties to that land.",
+              "textOriginal": "It's not arbitrary.  The land of Israel is the only location on the whole of the Earth where the Jews ever had a country of their own, and it's unique in that in all of recorded history, that land has never had any other sovereign country there except for that of the Jews.  No empire who ever captured that land ever created a country there.  It is the Jews' ancestral homeland.  They have significant historical and religious ties to that land.",
+              "parentId": "UgzoSWiOFMkUSfR2Srl4AaABAg",
+              "authorDisplayName": "@lennardchurch8483",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_knsk9UdVY-hchMft5tpKkKALC_BnHWdu8CQv7l=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/@lennardchurch8483",
+              "authorChannelId": { "value": "UCWIlY9JddAUCv4n9TJTF_MQ" },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 1,
+              "publishedAt": "2024-03-02T04:20:26Z",
+              "updatedAt": "2024-03-02T04:20:26Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "oJ-ggrfY1EB1cbdVC6MJpD0JQVs",
+      "id": "UgweD3aYUBO20hKqtyd4AaABAg",
+      "snippet": {
+        "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+        "videoId": "iRYZjOuUnlU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "-tc8SQYoQOpBrxIw5d_aXzL88kE",
+          "id": "UgweD3aYUBO20hKqtyd4AaABAg",
+          "snippet": {
+            "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+            "videoId": "iRYZjOuUnlU",
+            "textDisplay": "Wait, before I even watch this, let me guess....the creator of this video will try and I say try to make Israelis the bad people in this video.  I&#39;ll come back...",
+            "textOriginal": "Wait, before I even watch this, let me guess....the creator of this video will try and I say try to make Israelis the bad people in this video.  I'll come back...",
+            "authorDisplayName": "@brianvalentas1121",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nJS1cdQspv83QIUh6VmOK0Jegfw_8NDOJ-HYRAyw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@brianvalentas1121",
+            "authorChannelId": { "value": "UCnXHIuRsjW3fC33_a-CdFmg" },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2024-03-01T09:01:49Z",
+            "updatedAt": "2024-03-01T09:01:49Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "OdzMrtK_Z4IHruKOvAoalRo6sPQ",
+            "id": "UgweD3aYUBO20hKqtyd4AaABAg.A0RK2iAO7xsA0TL-aABeMx",
+            "snippet": {
+              "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+              "videoId": "iRYZjOuUnlU",
+              "textDisplay": "Well, they are.",
+              "textOriginal": "Well, they are.",
+              "parentId": "UgweD3aYUBO20hKqtyd4AaABAg",
+              "authorDisplayName": "@chrisgaming9567",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_ldUwUOWEb5cONC6vzG_x0m9UCXu0NXgIoGsDnQ=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/@chrisgaming9567",
+              "authorChannelId": { "value": "UCKY7V44Z9SzK4LJcy4cTcRA" },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 1,
+              "publishedAt": "2024-03-02T03:48:37Z",
+              "updatedAt": "2024-03-02T03:48:37Z"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
