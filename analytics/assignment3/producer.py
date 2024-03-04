@@ -24,7 +24,7 @@ def decode_kafka_item(message):
                                           message.value))
     return message.value.decode('utf-8')
 
-chat = pytchat.create(video_id="uIx8l2xlYVY")
+chat = pytchat.create(video_id="XuSaNXRNwEw")
 while chat.is_alive():
     for c in chat.get().sync_items():
         print(f"{c.datetime} [{c.author.name}]- {c.message}")
