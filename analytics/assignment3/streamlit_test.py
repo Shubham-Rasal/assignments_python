@@ -15,7 +15,7 @@ st.set_page_config(
 dataset_url = "https://raw.githubusercontent.com/Lexie88rus/bank-marketing-analysis/master/bank.csv"
 
 # read csv from a URL
-@st.experimental_memo
+@st.cache_data
 def get_data() -> pd.DataFrame:
     return pd.read_csv(dataset_url)
 
@@ -87,6 +87,9 @@ for seconds in range(200):
             fig2 = px.histogram(data_frame=df, x="age_new")
             st.write(fig2)
 
+        #make a time series chart
+
+        
         st.markdown("### Detailed Data View")
         st.dataframe(df)
-        time.sleep(1)
+        time.sleep(0.2)
