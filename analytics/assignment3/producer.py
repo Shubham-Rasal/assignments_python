@@ -24,8 +24,11 @@ def decode_kafka_item(message):
                                           message.value))
     return message.value.decode('utf-8')
 
+import time
+
 chat = pytchat.create(video_id="XuSaNXRNwEw")
 while chat.is_alive():
     for c in chat.get().sync_items():
         print(f"{c.datetime} [{c.author.name}]- {c.message}")
+        time.sleep(1)
         write_to_kafka('youtube', [(c.message, c.author.name)])
