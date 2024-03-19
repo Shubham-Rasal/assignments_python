@@ -54,7 +54,7 @@ st.set_page_config(
     layout="wide",
     )
 # dashboard title
-st.title("Real-Time / Live Data Youtube Chat Stream Dashboard")
+st.title("Real-Time Hate Speech Detection Dashboard")
 
 
 # [{'label': 'LABEL_2', 'score': 0.6886570453643799}]
@@ -102,7 +102,7 @@ def read_from_kafka(topic_name):
 
     plt.style.use('dark_background') 
 
-    fig, ax = plt.subplots()
+    fig, ax = plt.subplots(figsize=(8, 4))
 
     x = np.array([time.time()])
     y = np.array([0])
